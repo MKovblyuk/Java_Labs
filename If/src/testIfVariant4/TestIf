@@ -1,0 +1,17 @@
+package testIfVariant4;
+
+import ifVariant4.IfVariant4;
+import org.testng.annotations.DataProvider;
+import org.testng.annotations.Test;
+
+public class TestIf{
+
+    @DataProvider
+    public Object[][] numbersProvider(){
+        return new Object[][]{};
+    }
+    @Test
+    public void sd(){
+        System.out.println("dsds");
+    }
+}

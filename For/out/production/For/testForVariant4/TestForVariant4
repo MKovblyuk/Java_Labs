@@ -1,0 +1,12 @@
+package testForVariant4;
+
+import forVariant4.ForVariant4;
+import org.testng.annotations.Test;
+
+public class TestForVariant4{
+
+    @Test
+    public void sdsd(){
+        System.out.println("sdaasaaaa");
+    }
+}
